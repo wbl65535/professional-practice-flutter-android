@@ -24,8 +24,8 @@ class ProfessionalPracticeAndroidApp extends StatelessWidget {
 class PracticeAndroidHomePage extends StatelessWidget {
   const PracticeAndroidHomePage({super.key});
 
-  static const String projectTitle = '第 1 组专业实践 Android 真机运行展示';
-  static const String projectSlogan = '延续 Flutter Web 协作成果，把小组应用运行到真实 Android 手机';
+  static const String projectTitle = '第 1 组专业实践 Flutter Android 真机运行展示';
+  static const String projectSlogan = '延续 Flutter Web 协作成果，协作开发，把小组应用运行到真实 Android 手机';
   static const String deviceProof = '最终证据：用第二部手机拍摄手持 Android 真机运行照片，并加入 GitHub README。';
 
   static const List<TeamMember> members = [
