@@ -46,10 +46,11 @@ class PracticeAndroidHomePage extends StatelessWidget {
   ];
 
   static const List<String> evidenceNotes = [
-    '不能提交 Web 截图或模拟器截图。',
-    '不能使用手机直接截图代替照片。',
-    '必须用第二部手机拍摄，并拍到手持真机。',
-    '照片需放入 images/android-real-device.jpg，并在 GitHub README 中显示。',
+    '没有提交 Web 截图或模拟器截图。',
+    '没有使用手机直接截图代替照片。',
+    '使用第二部手机拍摄，并拍到手持真机。',
+    '照片已放入 images/android-real-device.jpg，并在 GitHub README 中显示。',
+    '修改人：王宝龙 12024215170'
   ];
 
   @override
